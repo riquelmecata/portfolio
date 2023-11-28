@@ -67,8 +67,8 @@ h1 {
 }
 
 .sobre-mi {
-    height:600px;
-    padding: 10px;
+    min-height:600px;
+    padding: 20px;
 }
 
 .sobre-mi .contenedor {
@@ -96,7 +96,7 @@ h1 {
 }
 
 .proyectos-contenedor {
-    padding-top: 60px;
+    padding-top: 40px;
     margin-bottom: 40px;
 }
 
